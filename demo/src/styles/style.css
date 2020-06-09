@@ -1,0 +1,12 @@
+
+
+.big{
+	color:"red";
+	background-color:"pink";
+}
+
+.button_custom{
+	background-color:"orange";
+	padding:"5px";
+	width:"20%";
+}
